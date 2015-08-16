@@ -1,4 +1,5 @@
 Tools:
+
 1. Ruby 1.9.3
 2. Selenium webdriver
 
@@ -17,6 +18,7 @@ Test case
 11. Check whether at least one attribute contains <keyword>
 
 Requirements:
+
 1. Browser and <keyword> should be configurable. Test should run with any combination of them.
 2. Imagine, what this is not such a simple tiny task, but big scalable project, thus implement appropriate OOP model/approach.
 3. Prove model/approach chosen.
