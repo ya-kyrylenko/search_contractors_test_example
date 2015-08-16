@@ -1,7 +1,7 @@
 Tools:
 
-1. Ruby 1.9.3
-2. Selenium webdriver
+	1. Ruby 1.9.3
+	2. Selenium webdriver
 
 Test case
 
@@ -19,8 +19,8 @@ Test case
 
 Requirements:
 
-1. Browser and <keyword> should be configurable. Test should run with any combination of them.
-2. Imagine, what this is not such a simple tiny task, but big scalable project, thus implement appropriate OOP model/approach.
-3. Prove model/approach chosen.
-4. Every action, every comparison result, etc should be logged accordingly (i.e. to stdout). Goal: when your script pass - detailed test-case steps should be looged into STDOUT thus anybody can read it and repeat exactly the same steps and verifications but manually.
-5. Code should be well commented thus anybody can easily findout what action is being performed there and what is the purpose of those code blocks/methods/etc
+	1. Browser and <keyword> should be configurable. Test should run with any combination of them.
+	2. Imagine, what this is not such a simple tiny task, but big scalable project, thus implement appropriate OOP model/approach.
+	3. Prove model/approach chosen.
+	4. Every action, every comparison result, etc should be logged accordingly (i.e. to stdout). Goal: when your script pass - detailed test-case steps should be looged into STDOUT thus anybody can read it and repeat exactly the same steps and verifications but manually.
+	5. Code should be well commented thus anybody can easily findout what action is being performed there and what is the purpose of those code blocks/methods/etc
