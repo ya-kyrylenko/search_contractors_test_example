@@ -1,4 +1,4 @@
-Tools:
+Tools
 
 	1. Ruby 1.9.3
 	2. Selenium webdriver
@@ -17,7 +17,7 @@ Test case
 10. Compare each attribute value is equal to one of those stored in the structure created in #6
 11. Check whether at least one attribute contains <keyword>
 
-Requirements:
+Requirements
 
 	1. Browser and <keyword> should be configurable. Test should run with any combination of them.
 	2. Imagine, what this is not such a simple tiny task, but big scalable project, thus implement appropriate OOP model/approach.
